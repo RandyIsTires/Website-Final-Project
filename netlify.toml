@@ -1,0 +1,13 @@
+[build]
+  publish = "."
+
+# Serve MainWeb.htm as the homepage at the site root
+[[redirects]]
+  from = "/"
+  to = "/MainWeb.htm"
+  status = 200
+
+[[redirects]]
+  from = "/index.html"
+  to = "/MainWeb.htm"
+  status = 200

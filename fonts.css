@@ -1,0 +1,4 @@
+/* Loads the custom fonts from the Fonts folder so visitors don't have to install them */
+@font-face { font-family: "Ethnocentric"; src: url("Fonts/Ethnocentric-Regular.otf") format("opentype"); font-display: swap; }
+@font-face { font-family: "Airstrike Bold"; src: url("Fonts/airstrikebold.ttf") format("truetype"); font-display: swap; }
+@font-face { font-family: "Space Age"; src: url("Fonts/space%20age.ttf") format("truetype"); font-display: swap; }
